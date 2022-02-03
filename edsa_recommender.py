@@ -273,7 +273,7 @@ def main():
             st.info("Meet the amazing team members that contributed to this project.")
             st.markdown("<h3 style='text-align: center;'>Rookaya</h3>", unsafe_allow_html=True)
             st.markdown("<p style='text-align: center;'>Streamlit App Coordinator | Data Analyst</p>", unsafe_allow_html=True)
-
+            st.image('https://avatars.githubusercontent.com/u/68612030?s=400&u=a7d16ca01b1411029caca4cbbe3a0755a6e8c274&v=4', width=120)
             st.markdown("<a href='https://za.linkedin.com/in/rookaya-madari-69476b15b' target='_blank'>LinkedIn</a>", unsafe_allow_html=True)
             st.markdown("<a href='https://github.com/rookaya' target='_blank'>GitHub</a>", unsafe_allow_html=True)
 
@@ -294,7 +294,7 @@ def main():
             # Pule
             st.markdown("<h3 style='text-align: center;'>Pule Mmathabo</h3>", unsafe_allow_html=True)
             st.markdown("<p style='text-align: center;'>Streamlit App Designer</p>", unsafe_allow_html=True)
-            st.image('https://avatars.githubusercontent.com/u/68612030?s=400&u=a7d16ca01b1411029caca4cbbe3a0755a6e8c274&v=4', width=120)
+            st.image('./oo.jpg', width=120)
             st.markdown("<a href='https://www.linkedin.com/in/mmathabo-pule-5a317b178/' target='_blank'>LinkedIn</a>", unsafe_allow_html=True)
             st.markdown("<a href='https://github.com/mmathabo-pule' target='_blank'>GitHub</a>", unsafe_allow_html=True)
 

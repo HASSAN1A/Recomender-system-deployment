@@ -147,8 +147,8 @@ If this command ran successfully, output similar to the following should be obse
 ```
 You can now view your Streamlit app in your browser.
 
-  Network URL: http://172.31.47.109:5000
-  External URL: http://3.250.50.104:5000
+  Network URL: http://172.31.37.194:5000
+  External URL: http://34.244.59.147:5000
 
 ```
 
